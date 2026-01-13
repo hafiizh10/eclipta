@@ -1,6 +1,6 @@
 # Eclipta - Manajemen Konten Canggih
 
-Eclipta adalah aplikasi manajemen Instagram lengkap yang menggabungkan kecerdasan buatan (AI), editor desain, dan sistem posting otomatis. Kamu bisa melakukan semuanya—mulai dari mencari ide, mendesain, hingga menjadwalkan postingan—cukup di satu tempat tanpa perlu pindah aplikasi.
+**Eclipta** adalah aplikasi manajemen Instagram lengkap yang menggabungkan kecerdasan buatan (AI), editor desain, dan sistem posting otomatis. Kamu bisa melakukan semuanya—mulai dari mencari ide, mendesain, hingga menjadwalkan postingan—cukup di satu tempat tanpa perlu pindah aplikasi.
 
 Aplikasi ini dirancang untuk mengatasi masalah repetitif dalam pengelolaan media sosial, membantu pengguna menghemat waktu hingga **70%** dan menargetkan peningkatan *engagement* hingga **2x lipat** melalui konsistensi posting dan bantuan AI.
 
@@ -53,9 +53,18 @@ Eclipta menyediakan ekosistem lengkap mulai dari manajemen user perusahaan, pemb
 
 ---
 
-## Kontak
+## 🌐 Official Social Media
 
-Jika tertarik untuk berdiskusi mengenai pengembangan software, silakan hubungi saya:
+Dapatkan informasi update fitur terbaru, tips konten, dan promo Eclipta berikut:
+
+- **Instagram:** [@eclipta_id](https://www.instagram.com/eclipta_id/)
+- **Facebook:** [Eclipta](https://web.facebook.com/eclipta.id)
+
+---
+
+## Kontak Developer
+
+Jika tertarik untuk berdiskusi mengenai pengembangan software atau kolaborasi teknis, silakan hubungi saya:
 
 - **GitHub:** [hafiizh10](https://github.com/hafiizh10)
 - **Email:** hafiizh10@gmail.com
