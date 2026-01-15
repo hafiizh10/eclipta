@@ -1,8 +1,6 @@
 # Eclipta - Manajemen Konten Canggih
 
-**Eclipta** adalah aplikasi manajemen Instagram lengkap yang menggabungkan kecerdasan buatan (AI), editor desain, dan sistem posting otomatis. Kamu bisa melakukan semuanya—mulai dari mencari ide, mendesain, hingga menjadwalkan postingan—cukup di satu tempat tanpa perlu pindah aplikasi.
-
-Aplikasi ini dirancang untuk mengatasi masalah repetitif dalam pengelolaan media sosial, membantu pengguna menghemat waktu hingga **70%** dan menargetkan peningkatan *engagement* hingga **2x lipat** melalui konsistensi posting dan bantuan AI.
+**Eclipta** adalah platform all-in-one untuk mengelola konten Instagram. Kelola beberapa akun sekaligus, brainstorming ide konten dengan AI, desain visual, sampai posting otomatis—semuanya bisa dilakukan di satu tempat. Eclipta membantu mengotomasi tugas-tugas yang biasanya memakan waktu agar kamu lebih efisien.
 
 ---
 
@@ -17,45 +15,52 @@ Aplikasi ini dirancang untuk mengatasi masalah repetitif dalam pengelolaan media
 ### 3. Upload Post Feed
 ![Upload Post Feed](images/post_feed.png)
 
----
+### 4. Editor Template
+![Editor Template](images/editor_template.png)
 
-## Fitur Unggulan (Key Features)
-
-Eclipta menyediakan ekosistem lengkap mulai dari manajemen user perusahaan, pembuatan ide, desain visual, hingga eksekusi posting otomatis.
-
-### 1. Manajemen Akun & Skabilitas Enterprise
-* **Struktur User Skala Enterprise:** Mendukung hierarki user yang cocok untuk perusahaan skala besar. Tersedia role **Admin** yang berfungsi memanajemen akun **Client**. Ini memungkinkan perusahaan membuat akun Client terpisah untuk setiap divisi/cabang mereka.
-* **Manajemen Multi-Akun:** Memberikan fleksibilitas bagi Client untuk menghubungkan dan mengelola beberapa akun Instagram sekaligus dalam satu dashboard terpusat.
-* **Instagram Graph API:** Integrasi menggunakan jalur resmi (Official API) menjamin keamanan akun.
-
-### 2. Ekosistem Developer
-* **Akses API Key Client:** Fitur *developer-friendly* di mana setiap Client bisa men-generate **API Key** unik. Ini memungkinkan user yang memiliki keahlian teknis untuk menghubungkan akun Instagram yang terdaftar di Eclipta ke aplikasi eksternal atau *project* mereka sendiri.
-
-### 3. Publikasi & Penjadwalan Cerdas
-* **Dukungan Multi-Format:** Mendukung upload penuh untuk **Post Feed**, **Story**, dan **Album (Carousel)**.
-* **Penjadwalan Tingkat Lanjut:** Penjadwalan konten presisi berdasarkan tanggal dan jam (mendukung pengaturan Timezone).
-* **Upload Massal:** User dapat mengunggah banyak konten sekaligus. Sistem dilengkapi fitur *Smart Delay* (jeda 2-60 menit antar postingan) untuk menjaga keamanan akun dan perilaku natural.
-* **Tampilan Draft & Kalender:** Visualisasi jadwal konten dalam bentuk kalender interaktif, serta manajemen *Draft* yang fleksibel sebelum konten dipublikasikan.
-
-### 4. Generative AI & Kreativitas
-* **Ide Konten Berbasis AI:** Masukkan profil bisnis, dan AI akan membuatkan rencana konten untuk 14 hari ke depan lengkap dengan *Caption*, *Hashtag*, dan strategi *Call-to-Action (CTA)*.
-* **Generasi Gambar:** Terintegrasi langsung dengan model AI terkini untuk menciptakan aset visual berkualitas tinggi langsung dari dashboard.
-* **Echa (Asisten AI):** Asisten virtual cerdas berbasis chat yang siap membantu user mengelola konten atau menjawab pertanyaan seputar fitur aplikasi secara *real-time*.
-
-### 5. Editor Visual & Otomatisasi Dinamis
-* **Editor Template Visual:** Editor *drag-and-drop* mirip Canva. User dapat mengupload *background image*, mengatur posisi teks, dan *styling* elemen visual lainnya.
-* **Otomatisasi Dinamis (Cron Job):** Salah satu fitur paling *powerful*. User dapat menghubungkan **External API** (misal: Weather API) ke dalam template.
-    * *Skenario:* Sistem secara otomatis mengambil data cuaca terkini, memasukkannya ke template desain yang sudah dibuat, me-render gambar baru, dan mempostingnya ke story/feed secara otomatis sesuai jadwal/trigger yang ditentukan.
-
-### 6. Analitik & Monitoring
-* **Riwayat Upload & Log:** Mencatat setiap aktivitas posting dengan detail.
-* **Analisis Status Upload:** Memantau status keberhasilan upload. Jika terjadi kegagalan, sistem memberikan log detil untuk memudahkan *troubleshooting*.
+### 5. Penjadwalan Otomatis
+![Penjadwalan Otomatis](images/penjadwalan_otomatis.png)
 
 ---
 
-## 🌐 Official Social Media
+## Fitur-Fitur Utama
 
-Dapatkan informasi update fitur terbaru, tips konten, dan promo Eclipta berikut:
+### 1. Multi-Account Management untuk Perusahaan
+* **Sistem hierarki user:** Ada role Admin yang bisa mengatur akun-akun Client. Cocok untuk perusahaan dengan banyak divisi atau cabang yang butuh akun terpisah.
+* **Kelola beberapa akun Instagram sekaligus** dari satu dashboard.
+* **Integrasi resmi lewat Instagram Graph API** jadi akun kamu terlindungi dan terpercaya.
+
+### 2. Penjadwalan Upload Konten
+* **Upload berbagai tipe konten:** Feed post, Story, dan Carousel (album).
+* **Jadwal posting yang presisi** atur jadwal posting kapan saja, bahkan untuk beberapa bulan ke depan.
+* **Upload Massal:** Upload banyak konten sekaligus dengan smart delay (jeda 2-60 menit) agar konten kamu tetap muncul di feed followers secara konsisten.
+* **Draft & Calendar view:** Lihat semua konten yang dijadwalkan dalam tampilan kalender yang mudah dipahami.
+
+### 3. Fitur AI untuk Konten
+* **AI Content Planner:** Masukkan info tentang bisnis kamu, AI akan buatkan rencana konten untuk 14 hari ke depan lengkap dengan caption, hashtag, dan CTA. Setelah ide konten jadi, kamu tetap bisa edit caption atau ganti media. Yang lebih praktis lagi, ada fitur **auto-publish** jadi konten yang sudah siap bisa langsung diposting otomatis tanpa repot satu-satu.
+* **AI Image Generator:** Bikin gambar langsung dari dashboard tanpa perlu tools eksternal.
+* **Echa, AI Assistant:** Chat dengan asisten AI yang bisa bantu kamu kelola konten atau jawab pertanyaan tentang fitur-fitur Eclipta.
+
+### 4. Editor Template & Posting Otomatis
+* **Template editor mirip Canva:** Desain template dengan cara drag-and-drop. Upload background, atur posisi teks, semuanya tinggal klik tanpa ribet.
+* **Automasi dengan Data dari Sistem Lain:** Punya database atau sistem sendiri? Atau mau pakai layanan pihak ketiga? Keduanya bisa dihubungkan! Contoh: Rumah sakit bisa bikin template "Jadwal Dokter Hari Ini" data dokter dan jam praktik otomatis di upload ke story/feed. 
+Atau pakai data cuaca (weatherapi.com) untuk auto-post info cuaca terkini. Sistem ambil data, masukkan ke template, render jadi gambar, terus post otomatis ke Instagram sesuai jadwal. Semua jalan secara otomatis.
+
+### 5. Monitoring & Analytics
+* **Upload history lengkap** dengan log detail.
+* **Status tracking:** Pantau setiap posting, lihat mana yang berhasil atau gagal, plus troubleshooting tips kalau ada error.
+
+### 6. API Access untuk Developer
+* Setiap Client bisa generate **API Key** sendiri untuk integrasi dengan aplikasi atau project lain. Fitur ini berguna kalau kamu mau bikin automation sendiri atau connect ke sistem yang sudah ada.
+
+### 7. Multi-Language Support
+* Aplikasi tersedia dalam **Bahasa Indonesia** dan **English**.
+
+---
+
+## 🌐 Social Media
+
+Follow untuk update fitur terbaru, tips konten, dan promo:
 
 - **Instagram:** [@eclipta_id](https://www.instagram.com/eclipta_id/)
 - **Facebook:** [Eclipta](https://web.facebook.com/eclipta.id)
@@ -64,11 +69,12 @@ Dapatkan informasi update fitur terbaru, tips konten, dan promo Eclipta berikut:
 
 ## Kontak Developer
 
-Jika tertarik untuk berdiskusi mengenai pengembangan software atau kolaborasi teknis, silakan hubungi saya:
+Mau diskusi tentang software development atau collaboration? Hubungi saya:
 
 - **GitHub:** [hafiizh10](https://github.com/hafiizh10)
 - **Email:** hafiizh10@gmail.com
 - **LinkedIn:** [Hafiizh](https://www.linkedin.com/in/zoelva)
 
 ---
+
 *© 2026 Eclipta. Developed by Hafiizh.*
