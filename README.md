@@ -43,7 +43,7 @@
 
 ### 4. Editor Template & Posting Otomatis
 * **Template editor mirip Canva:** Desain template dengan cara drag-and-drop. Upload background, atur posisi teks, semuanya tinggal klik tanpa ribet.
-* **Automasi dengan Data dari Sistem Lain:** Punya database atau sistem sendiri? Atau mau pakai layanan pihak ketiga? Keduanya bisa dihubungkan! Contoh: Rumah sakit bisa bikin template "Jadwal Dokter Hari Ini" data dokter dan jam praktik otomatis di upload ke story/feed. 
+* **Automasi dengan data eksternal:** Punya database atau sistem sendiri? Atau mau pakai layanan pihak ketiga? Keduanya bisa dihubungkan! Contoh: Rumah sakit bisa bikin template "Jadwal Dokter Hari Ini" data dokter dan jam praktik otomatis di upload ke story/feed. 
 Atau pakai data cuaca (weatherapi.com) untuk auto-post info cuaca terkini. Sistem ambil data, masukkan ke template, render jadi gambar, terus post otomatis ke Instagram sesuai jadwal. Semua jalan secara otomatis.
 
 ### 5. Monitoring & Analytics
@@ -58,7 +58,7 @@ Atau pakai data cuaca (weatherapi.com) untuk auto-post info cuaca terkini. Siste
 
 ---
 
-## 🌐 Social Media
+## Social Media
 
 Follow untuk update fitur terbaru, tips konten, dan promo:
 
